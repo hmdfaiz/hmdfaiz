@@ -28,10 +28,10 @@
  
 <p><img src= "https://github-readme-stats.vercel.app/api?username=hmdfaiz&show_icons=true&theme=transparent" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmdfaiz&layout=compact&theme=transparent" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmdfaiz&show_icons=true&layout=compact&theme=transparent" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hmdfaiz&show_icons=true&locale=en&layout=compact" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmdfaiz&show_icons=true&theme=transparent&locale=en" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmdfaiz&theme=transparent" alt="hmdfaiz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmdfaiz&bg_color=00000000" alt="hmdfaiz" /></p>
