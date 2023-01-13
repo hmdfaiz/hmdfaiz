@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently upgrading my **Statistic, Web scrapping, R programming, Tableau**
 
-- 🤝 I’m looking for assisting in **Power BI, Excel, Workbench, Colab**
+- 🤝 I’m open for assisting in **Power BI, Excel, Workbench, Colab**
 
 - 💬 Ask me about **data analytic**
 
