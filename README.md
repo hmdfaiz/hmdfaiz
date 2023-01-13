@@ -1,6 +1,6 @@
 ![MasterHead](https://tarikatechnologies.com/storage/2020/07/Header-4.jpg)
 <h1 align="center">Hi 👋, I'm Ahmad Faiz</h1>
-<h3 align="center">A passionate student of data analyst from Malaysia</h3>
+<h3 align="center">A passionate student of data analytic</h3>
 <img align ="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hmdfaiz&label=Profile%20views&color=0e75b6&style=flat" alt="hmdfaiz" /> </p>
