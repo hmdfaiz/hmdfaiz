@@ -30,4 +30,4 @@
  
 <p><img align="center" src= "https://github-readme-stats.vercel.app/api?username=hmdfaiz&show_icons=true&theme=transparent" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmdfaiz&bg_color=black" alt="hmdfaiz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hmdfaiz&theme=dark" alt="hmdfaiz" /></p>
